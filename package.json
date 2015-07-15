@@ -1,0 +1,19 @@
+{
+  "name": "ballapi",
+  "version": "0.1.0",
+  "description": "Ball API",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.12.4",
+    "redis": "^0.12.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Billie Thompson billie@purplebooth.co.uk",
+  "license": "MIT"
+}

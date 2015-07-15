@@ -1,0 +1,10 @@
+web:
+  build: .
+  ports:
+   - "3000:3000"
+  links:
+   - redis
+  environment:
+    CLOSE: 100
+redis:
+  image: redis
