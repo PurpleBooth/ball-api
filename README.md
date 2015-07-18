@@ -105,5 +105,4 @@ Who has time for full VMs these days
 
 ### Code quality
 
-Your cat threw up on your bed again.
-
+Not bad but we're missing some tests due to this being produced in the middle of the night.
