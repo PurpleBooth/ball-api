@@ -1,10 +1,11 @@
 {
   "name": "ballapi",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Ball API",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.13.2",
+    "cors": "^2.7.1",
     "express": "^4.12.4",
     "redis": "^0.12.1",
     "underscore": "^1.8.3"
