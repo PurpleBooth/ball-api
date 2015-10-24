@@ -1,5 +1,7 @@
 # Ball-API
 
+[![Join the chat at https://gitter.im/PurpleBooth/ball-api](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PurpleBooth/ball-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 For a joke app we talked about for the [DevMeetDesign meetup](http://www.meetup.com/devmeetdesign/)
 
 ## Running 
